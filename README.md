@@ -17,7 +17,42 @@ ChargeWise AI analyzes key location factors such as population density, traffic 
 - Amazon API Gateway – API endpoint
 - Frontend Dashboard – Visualization layer
 
-(Add your architecture diagram image here)
+Sample response 
+[
+  {
+    "location": "Lekki",
+    "score": 92,
+    "rank": 1
+  },
+  {
+    "location": "Ikeja",
+    "score": 88,
+    "rank": 2
+  }
+]
+
+Project structure
+chargewise-ai/
+├── frontend/
+├── backend/
+├── architecture/
+├── datasets/
+└── docs/
+
+## Business impact 
+•Improves EV charging station placement 
+• Reduce infrastructure development cost
+• Support sustainable transition growth
+• Enables data decision making
+## Future Enhancement 
+• Realtime traffic integration 
+• Machine learning prediction models 
+• Geographic heat map 
+• Live EV demand forecasting 
+
+## Team members 
+• Goodness Adepoju
+• Favour Alfred
 
 ## AWS Services Used
 
@@ -25,7 +60,6 @@ ChargeWise AI analyzes key location factors such as population density, traffic 
 - AWS Lambda
 - Amazon API Gateway
 
-## API Endpoint
 
-```text
-GET /recommendations
+## API Endpoint
+https://06nwru8m2b.execute-api.us-east-1.amazonaws.com/pod/recommendations
