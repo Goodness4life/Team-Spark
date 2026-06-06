@@ -16,6 +16,9 @@ ChargeWise AI analyzes key location factors such as population density, traffic 
 - AWS Lambda – Recommendation engine
 - Amazon API Gateway – API endpoint
 - Frontend Dashboard – Visualization layer
+## Architecture diagram
+https://github.com/Goodness4life/Team-Spark/blob/main/DOC-20260606-WA0062..pdf
+## SOW
 
 Sample response 
 [
