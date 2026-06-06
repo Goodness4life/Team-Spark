@@ -19,7 +19,7 @@ ChargeWise AI analyzes key location factors such as population density, traffic 
 ## Architecture diagram
 https://github.com/Goodness4life/Team-Spark/blob/main/DOC-20260606-WA0062..pdf
 ## SOW
-
+https://github.com/Goodness4life/Team-Spark/blob/main/Team%20Spark%20SOW.pdf
 Sample response 
 [
   {
