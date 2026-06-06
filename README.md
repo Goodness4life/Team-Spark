@@ -66,3 +66,5 @@ chargewise-ai/
 
 ## API Endpoint
 https://06nwru8m2b.execute-api.us-east-1.amazonaws.com/pod/recommendations
+## Demo
+http://localhost:5173
